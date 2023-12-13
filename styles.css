@@ -212,7 +212,7 @@ h3{
   }
 }
 
-/* .navbar-brand:hover{
+.navbar-brand:hover{
   color: #048E7B ;
 }
 
@@ -220,4 +220,4 @@ h3{
 .copyright{
   font-size: 1.4rem;
   color: #777;
-}  */
+} 
